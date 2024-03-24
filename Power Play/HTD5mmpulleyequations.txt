@@ -1,0 +1,8 @@
+﻿"n"= 120
+"p"= 5mm
+"pd"= "n" * "p" / pi
+"D1@Sketch1"="pd"
+"D6@Sketch1"=180/"n"
+"D1@CirPattern1"="n"
+"botbear"= 26mm
+"D8@Sketch1"="botbear"
